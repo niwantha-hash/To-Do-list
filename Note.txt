@@ -1,0 +1,7 @@
+This Project is built in Laravel 9 because 
+Some project are going on that platform
+
+How to run
+Get the code and setup the .env file 
+I use the database sourse as a mysql
+then run the cmd 
